@@ -12,3 +12,5 @@ Data Storage: Why you chose ADLS for raw data and transformed data storage.
 Visualization: Explanation of the Power BI dashboard.
 
 Security: Measures you took to secure sensitive data (like PII).
+
+![image](https://github.com/user-attachments/assets/f2105cb6-991f-4e23-86af-b4810ff044ef)
